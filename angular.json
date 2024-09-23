@@ -91,7 +91,11 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+              "repo": "https://github.com/your-username/your-repo.git",  
+              "baseHref": "/trello-clone/"
+          }
         }
       }
     }

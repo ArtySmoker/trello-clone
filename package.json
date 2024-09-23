@@ -1,4 +1,5 @@
-{
+{ 
+  "homepage": "https://artysmoker.github.io/trello-clone/",
   "name": "trello-clone",
   "version": "0.0.0",
   "scripts": {
